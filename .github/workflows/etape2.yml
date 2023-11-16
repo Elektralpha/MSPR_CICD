@@ -7,4 +7,4 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - run: |
-          jar cvf MonAppli.war * && ls
+          jar cvf NicolasISEPB2.war * && ls
