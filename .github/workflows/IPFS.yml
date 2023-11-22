@@ -1,6 +1,7 @@
 name: Sauvegarde d'un fichier sur le réseau IPFS
 on: push
 jobs:
+job1: Industrialisation continue sur le serveur AWS (Tomcat)
   Deploy:
     name: Deploy
     runs-on: ubuntu-latest
